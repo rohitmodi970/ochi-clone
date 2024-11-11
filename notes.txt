@@ -1,0 +1,24 @@
+components in https://ochi.design/
+navbar
+landing page
+marquee
+about 
+playful
+cards
+cards 
+ready to start
+footer
+//animation 
+locomotive -->https://scroll.locomotive.ca/docs#/quickstart
+// only in app.jsx  from smooth scrolling
+
+import LocomotiveScroll from 'locomotive-scroll';
+
+const locomotiveScroll = new LocomotiveScroll();
+
+
+//framer motion 
+npm i framer-motion
+
+//gsap
+npm i gsap
